@@ -1,0 +1,400 @@
+# depslib dependency file v1.0
+1552208591 source:c:\users\zzy\desktop\dpll\display.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552055911 source:c:\users\zzy\desktop\dpll\solver.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver.h"
+	"Sudoku.h"
+
+1552205977 source:c:\users\zzy\desktop\dpll\sudoku.c
+	"Sudoku.h"
+	<stdio.h>
+
+1552055740 source:c:\users\zzy\desktop\dpll\cnfparser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver.h"
+
+1551973926 c:\users\zzy\desktop\dpll\solver.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1552205977 c:\users\zzy\desktop\dpll\sudoku.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winnt.h>
+
+1552206299 c:\users\zzy\desktop\dpll\solver2.h
+
+1552207418 source:c:\users\zzy\desktop\dpll\solver2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552205977 source:c:\users\zzy\desktop\dpll\cnfparser2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+
+1552205977 source:c:\users\zzy\desktop\dpll非递归带菜单v1\cnfparser2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+
+1552232159 c:\users\zzy\desktop\dpll非递归带菜单v1\solver2.h
+
+1552208591 source:c:\users\zzy\desktop\dpll非递归带菜单v1\display.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552205977 c:\users\zzy\desktop\dpll非递归带菜单v1\sudoku.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winnt.h>
+
+1552205977 source:c:\users\zzy\desktop\dpll非递归带菜单v1\sudoku.c
+	"Sudoku.h"
+	<stdio.h>
+
+1552232794 source:c:\users\zzy\desktop\dpll非递归带菜单v1\solver2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552205977 source:c:\users\zzy\desktop\dpll非递归带菜单v2能用\cnfparser2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+
+1552279307 c:\users\zzy\desktop\dpll非递归带菜单v2能用\solver2.h
+
+1552208591 source:c:\users\zzy\desktop\dpll非递归带菜单v2能用\display.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552205977 c:\users\zzy\desktop\dpll非递归带菜单v2能用\sudoku.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winnt.h>
+
+1552205977 source:c:\users\zzy\desktop\dpll非递归带菜单v2能用\sudoku.c
+	"Sudoku.h"
+	<stdio.h>
+
+1552205977 source:c:\users\zzy\desktop\综合程序设计任务及指导学生包\dpll非递归带菜单v3能用\cnfparser2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+
+1552279307 c:\users\zzy\desktop\综合程序设计任务及指导学生包\dpll非递归带菜单v3能用\solver2.h
+
+1552279369 source:c:\users\zzy\desktop\综合程序设计任务及指导学生包\dpll非递归带菜单v3能用\solver2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552205977 c:\users\zzy\desktop\综合程序设计任务及指导学生包\dpll非递归带菜单v3能用\sudoku.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winnt.h>
+
+1552205977 source:c:\users\zzy\desktop\综合程序设计任务及指导学生包\dpll非递归带菜单v3能用\sudoku.c
+	"Sudoku.h"
+	<stdio.h>
+
+1552205977 source:c:\users\zzy\desktop\dpll非递归带菜单v3能用\cnfparser2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+
+1552279307 c:\users\zzy\desktop\dpll非递归带菜单v3能用\solver2.h
+
+1552285714 source:c:\users\zzy\desktop\dpll非递归带菜单v3能用\solver2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552205977 c:\users\zzy\desktop\dpll非递归带菜单v3能用\sudoku.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winnt.h>
+
+1552285714 source:c:\users\zzy\desktop\dpll非递归带菜单v3能用\display.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552283120 source:c:\users\zzy\desktop\dpll非递归带菜单v3能用\sudoku.c
+	"Sudoku.h"
+	<stdio.h>
+
+1552306495 source:c:\users\zzy\desktop\dpll非递归带菜单v4能用\cnfparser2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+
+1552306495 c:\users\zzy\desktop\dpll非递归带菜单v4能用\solver2.h
+
+1552314197 source:c:\users\zzy\desktop\dpll非递归带菜单v4能用\display.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552310211 c:\users\zzy\desktop\dpll非递归带菜单v4能用\sudoku.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winnt.h>
+
+1552307637 source:c:\users\zzy\desktop\dpll非递归带菜单v4能用\solver2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552310959 source:c:\users\zzy\desktop\dpll非递归带菜单v4能用\sudoku.c
+	"Sudoku.h"
+	<stdio.h>
+
+1552306495 source:c:\users\zzy\desktop\综合程序设计任务及指导学生包\dpll非递归带菜单v5，78快，9慢\cnfparser2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+
+1552306495 c:\users\zzy\desktop\综合程序设计任务及指导学生包\dpll非递归带菜单v5，78快，9慢\solver2.h
+
+1552314197 source:c:\users\zzy\desktop\综合程序设计任务及指导学生包\dpll非递归带菜单v5，78快，9慢\display.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552310211 c:\users\zzy\desktop\综合程序设计任务及指导学生包\dpll非递归带菜单v5，78快，9慢\sudoku.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winnt.h>
+
+1552314742 source:c:\users\zzy\desktop\综合程序设计任务及指导学生包\dpll非递归带菜单v5，78快，9慢\solver2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552310959 source:c:\users\zzy\desktop\综合程序设计任务及指导学生包\dpll非递归带菜单v5，78快，9慢\sudoku.c
+	"Sudoku.h"
+	<stdio.h>
+
+1552306495 source:c:\users\zzy\desktop\dpll非递归带菜单v5，78快，9慢\cnfparser2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+
+1552306495 c:\users\zzy\desktop\dpll非递归带菜单v5，78快，9慢\solver2.h
+
+1552314197 source:c:\users\zzy\desktop\dpll非递归带菜单v5，78快，9慢\display.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552310211 c:\users\zzy\desktop\dpll非递归带菜单v5，78快，9慢\sudoku.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winnt.h>
+
+1552310959 source:c:\users\zzy\desktop\dpll非递归带菜单v5，78快，9慢\sudoku.c
+	"Sudoku.h"
+	<stdio.h>
+
+1552317243 source:c:\users\zzy\desktop\dpll非递归带菜单v5，78快，9慢\solver2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552356948 source:c:\users\zzy\desktop\dpll非递归带菜单v7，9快8慢\cnfparser2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+
+1552356948 c:\users\zzy\desktop\dpll非递归带菜单v7，9快8慢\solver2.h
+
+1552314197 source:c:\users\zzy\desktop\dpll非递归带菜单v7，9快8慢\display.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552310211 c:\users\zzy\desktop\dpll非递归带菜单v7，9快8慢\sudoku.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winnt.h>
+
+1552357700 source:c:\users\zzy\desktop\dpll非递归带菜单v7，9快8慢\solver2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552310959 source:c:\users\zzy\desktop\dpll非递归带菜单v7，9快8慢\sudoku.c
+	"Sudoku.h"
+	<stdio.h>
+
+1552356948 source:c:\users\zzy\desktop\dpll非递归带菜单v7，9快8慢+8快9慢\cnfparser2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+
+1552356948 c:\users\zzy\desktop\dpll非递归带菜单v7，9快8慢+8快9慢\solver2.h
+
+1552314197 source:c:\users\zzy\desktop\dpll非递归带菜单v7，9快8慢+8快9慢\display.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552310211 c:\users\zzy\desktop\dpll非递归带菜单v7，9快8慢+8快9慢\sudoku.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winnt.h>
+
+1552358518 source:c:\users\zzy\desktop\dpll非递归带菜单v7，9快8慢+8快9慢\solver2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552310959 source:c:\users\zzy\desktop\dpll非递归带菜单v7，9快8慢+8快9慢\sudoku.c
+	"Sudoku.h"
+	<stdio.h>
+
+1552356948 source:c:\users\zzy\desktop\dpll非递归带菜单v7最快版本\cnfparser2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+
+1552356948 c:\users\zzy\desktop\dpll非递归带菜单v7最快版本\solver2.h
+
+1552367917 source:c:\users\zzy\desktop\dpll非递归带菜单v7最快版本\display.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552310211 c:\users\zzy\desktop\dpll非递归带菜单v7最快版本\sudoku.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winnt.h>
+
+1552737710 source:c:\users\zzy\desktop\dpll非递归带菜单v7最快版本\solver2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"solver2.h"
+	"Sudoku.h"
+
+1552310959 source:c:\users\zzy\desktop\dpll非递归带菜单v7最快版本\sudoku.c
+	"Sudoku.h"
+	<stdio.h>
+
